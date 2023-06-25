@@ -4,4 +4,5 @@ algorithms types# Artificial Intelligence
 Libraries used: DEAP
 
 Algorithms types:
+
 *Genetic Algorithms
