@@ -1,4 +1,4 @@
-algorithms types# Artificial Intelligence
+# Artificial Intelligence
 ## Artificial Intelligence Algorithms Repository
 
 Libraries used: DEAP
