@@ -136,7 +136,7 @@ def main():
         population[:] = offspring
 
         #Lista que contiene los valores de aptitud(fitness) cada individuo en la poblacion
-        fits = [ind.fitness.values[0] for ind in population]
+        fits = [individual.fitness.values[0] for individual in population]
 
         length = len(population)
         mean = sum(fits) / length
